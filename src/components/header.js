@@ -25,11 +25,9 @@ const Header = () => (
       <div className="">
       <div className={styles.navigation}>
         <ul>
-          <li><a href="http://localhost:8000/#Leistungen">Leistungen</a></li>
-          <li>          <a href="http://localhost:8000/#Offnungszeiten">Öffnungszeiten</a>
-</li>
-          <li>
-          <a href="http://localhost:8000/#Kontakt">Kontakt</a>
+          <li><a href="https://esfi.github.io/bellakosmetik/#Leistungen">Leistungen</a></li>
+          <li><a href="https://esfi.github.io/bellakosmetik/#Offnungszeiten">Öffnungszeiten</a></li>
+          <li><a href="https://esfi.github.io/bellakosmetik/#Kontakt">Kontakt</a>
 
           </li>
           <li>
